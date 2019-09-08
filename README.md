@@ -51,7 +51,7 @@ As a member of the 2ULaundry Accounting Team I need to see a list of invoices th
 > [http://proyecto-prueba.com/tech-start/](http://proyecto-prueba.com/tech-start/)
 
 **Api**
-> [/Invoice](http://proyecto-prueba.com/tech-start/Invoice/) 
+> [/Invoice](http://proyecto-prueba.com/tech-start/api/Invoice/) 
 
 > /Update
 

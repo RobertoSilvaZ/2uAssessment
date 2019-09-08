@@ -48,7 +48,7 @@ As a member of the 2ULaundry Accounting Team I need to see a list of invoices th
 
 ## Solution
 **Demo**
-> [http://proyecto-prueba.com/tech-start/pending](http://proyecto-prueba.com/tech-start/pending)
+> [http://proyecto-prueba.com/tech-start/](http://proyecto-prueba.com/tech-start/)
 
 **Api**
 > [/Invoice](http://proyecto-prueba.com/tech-start/Invoice/) 
